@@ -42,4 +42,5 @@ Random Forest emerged as the most effective model for vehicle recognition due to
 - **Hybrid Models**: Combining deep learning with traditional machine learning to improve classification performance.
 - **Integration with IoT and Smart City Infrastructure**: Deploying the system for traffic monitoring and automated toll collection.
 
-
+## Link
+https://colab.research.google.com/drive/1uMXG2u54TgMMHIuCueALbeAOHzB9BAlm
