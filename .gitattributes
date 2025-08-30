@@ -1,0 +1,2 @@
+# Force GitHub Linguist to count Google Colab notebooks as Python
+*.ipynb linguist-language=Python
